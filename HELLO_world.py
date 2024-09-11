@@ -3,4 +3,5 @@ print ("This is Dallas")
 
 # Ask user for name
 # This is comment
-input("what is your name")
+username = input("what is your name")
+print ("hello " + username)
